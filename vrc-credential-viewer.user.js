@@ -7,7 +7,7 @@
 // @match		https://api.vrchat.cloud/home*
 // @website		https://github.com/Yanorei32/VRCInstanceOwnerViewer
 // @namespace	http://yano.teamfruit.net/~rei/
-// @updateURL	https://github.com/Yanorei32/VRCCredentialViewer/vrc-credential-viewer.user.js
+// @updateURL	https://github.com/Yanorei32/VRCCredentialViewer/raw/master/vrc-credential-viewer.user.js
 // @license		MIT License
 // @grant		none
 // ==/UserScript==
