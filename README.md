@@ -1,4 +1,8 @@
 # VRChat Credential Viewer
+
+## IMPORTANT!!
+This is not working. because Currently, auth cookie has an HTTP Only flag.
+
 Click [HELLO THERE, {YOUR NAME}!] to get your credential to clipboard
 
 ![image](https://user-images.githubusercontent.com/11992915/90195985-c3d5e880-de05-11ea-9b3d-9a2a5a5cc0e8.png)
